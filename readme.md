@@ -5,7 +5,7 @@
 ```
 she-dlp-<curveType>-<hashBitSize>-<group>.bin
 ```
-* `curveType` : 0 (CurveFp254Bnb)
+* `curveType` : 0 (BN254)
 * `hashBitSize` : hash table size
 * `group` : g1/g2/gt
 
